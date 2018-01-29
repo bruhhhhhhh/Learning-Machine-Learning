@@ -4,7 +4,7 @@ Code I wrote while learning machine learning
 
 SVM-CartPole.py uses an svm model to solve the CartPole challenge on OpenAIGym
 
-NN-BipedalWalker.py uses a neural network with genetic optimisation to complete the BipdelWalker simulation on OpenAIGym
+NN-BipedalWalker.py uses a neural network with genetic optimisation to complete the BipdelWalker challenge on OpenAIGym
 
 NN-LunarLander.py uses a neural network with genetic optimisation to complete the LunarLander challenge on OpenAIGym
 
